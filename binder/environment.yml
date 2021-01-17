@@ -1,3 +1,4 @@
+name: pysal-env
 channels:
   - conda-forge
   - defaults
